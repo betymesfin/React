@@ -1,6 +1,5 @@
 function TodoRowItem(props){
 
-    
 
     return(
         <tr>
